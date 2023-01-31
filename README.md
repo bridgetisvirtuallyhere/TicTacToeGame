@@ -8,7 +8,13 @@ New developers will often be asked to get up to speed on a project rapidly. It i
 1. Fork this repo to your own GitHub Account.
 1. Clone your GitHub Account's repo to your local machine.
 1. Now, take 15 minutes to get a big picture of the code in this application and its features.
-    * Jot down notes here concerning: classes, objects, encapsulation, abstraction, inheritance, and polymorphism (i.e. if they are used, where they occur, etc.).
+    * Jot down notes here concerning: (i.e. if they are used, where they occur, etc.).
+    * classes: main, player, playerFactory, Sentient, BoardButton, Computer, TicTacToe
+    * objects: coordinate array object in BoardButton. name, marker, wins and turn in the Player class. Computer, sentient and Label in the PlayerFactory class. Stringbuilder d in Computer class.
+    * encapsulation: setters
+    * abstraction: Player class, getters
+    * inheritance: 
+    * polymorphism: 
 1. Don’t be stuck for too long, if you don't understand a section jot it down below and move on.
     * Jot down part of the code you don't understand here.
     * I'd like each person to jot down at least 2 things unfamiliar to them.
